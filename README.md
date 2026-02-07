@@ -4,7 +4,7 @@
 
 Dhaka faces a critical seismic threat. This project builds a Generative AI agent capable of acting as a first-line structural consultant to democratize safety, scientifically validate risk, and provide cost-effective retrofitting roadmaps.
 
-## 🧠 Project Dimensions (The Fellowship Roadmap)
+## 🧠 Project Dimensions
 
 1. **The Brain: Engineering Logic & Validation**
     - Grounded in **BNBC 2020** physics to ensure safety without AI hallucinations
