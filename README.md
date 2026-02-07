@@ -25,6 +25,7 @@ Dhaka faces a critical seismic threat. This project builds a Generative AI agent
 - **Knowledge Engineering**: BNBC 2020 Seismic Zonation logic
   
 📝 How to Cite this Work
+
 If you find this tool useful for your research or professional practice, please cite it as follows:
 
 Shanto, R. H. (2026). DhakaSeis: An AI-Driven Seismic Triage Tool implementing BNBC 2020 Part 6. Retrieved from https://github.com/shanto-71/DhakaSeis-AI-Assistant
